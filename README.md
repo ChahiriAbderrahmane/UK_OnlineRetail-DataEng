@@ -109,4 +109,4 @@ The dataset includes the following columns:
 
 [LinkedIn](https://www.linkedin.com/in/abderrahmane-chahiri-151b26237/) •
 [Website](https://github.com/ChahiriAbderrahmane) •
-[Gmail](chahiri.abderrahmane.eng@gmail.com)
+Gmail: [chahiri.abderrahmane.eng@gmail.com](chahiri.abderrahmane.eng@gmail.com)
