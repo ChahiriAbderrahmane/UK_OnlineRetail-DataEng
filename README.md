@@ -45,3 +45,12 @@ The dataset includes the following columns:
 | **UnitPrice**   |  Unit price. Numeric, Product price per unit in sterling.  |
 | **CustomerID**   |  Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.  |
 | **Country**   |  Country name. Nominal, the name of the country where each customer resides.   |
+
+### 🎯 Project Goals
+
+- CSV ingestion from S3 into Databricks
+- Clean and transform data with Spark into parquet tables
+- Data Modeling: Implement a star schema for analytical queries
+- Load processed tables into BigQuery
+- Provide interactive dashboards in Looker Studio
+
