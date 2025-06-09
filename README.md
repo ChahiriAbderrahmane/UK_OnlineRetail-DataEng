@@ -65,4 +65,8 @@ The dataset includes the following columns:
   - The month with the most revenue is July with more than 220K.
   - The month with the lowest revenue is December with 100K.
  
-- We can observe significant revenue increases in January (New Year), July (Wimbledon Finals), and November (Bonfire Night).
+> We can observe significant revenue increases in January (New Year), July (Wimbledon Finals), and November (Bonfire Night).
+
+
+<a name="arch"></a>
+## 📝 Project Architecture
