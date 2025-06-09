@@ -54,3 +54,15 @@ The dataset includes the following columns:
 - Load processed tables into BigQuery
 - Provide interactive dashboards in Looker Studio
 
+<a name="features"></a>
+## 🕵️ Key Insights
+
+- 💸 **Total Revenue by Country**
+  - The UK 🇬🇧 is the country that generated the most of the company's revenue with over 1.8M followed by France with 182.4k.
+
+    
+- 📈 **Revenue by months**
+  - The month with the most revenue is July with more than 220K.
+  - The month with the lowest revenue is December with 100K.
+ 
+- We can observe significant revenue increases in January (New Year), July (Wimbledon Finals), and November (Bonfire Night).
