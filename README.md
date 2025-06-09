@@ -15,3 +15,11 @@
     <a href="https://github.com/ChahiriAbderrahmane/UK_OnlineRetail-DataEng" target="_blank">Request Feature</a>
 </div>
 <br>
+
+## 📝 Table of Contents
+
+1. [ Project Overview ](#introduction)
+2. [ Key Insights ](#features)
+3. [ Project Architecture ](#arch)
+4. [ Credits ](#refs)
+5. [ Contact ](#contact)
