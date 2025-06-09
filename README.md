@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://lookerstudio.google.com/reporting/d51192fe-033f-4717-ba91-dd90c2f11dee/page/p_mgrr5jq6sd">
-    <img src="https://github.com/ChahiriAbderrahmane/UK_OnlineRetail-DataEng_privateVersion/blob/master/%F0%9F%93%8A_Online_Retail_Dashboard_Chahiri_page-0001.jpg" alt="Banner" width="720">
+    <img src="https://github.com/ChahiriAbderrahmane/UK_OnlineRetail-DataEng/blob/master/%F0%9F%93%8A_Online_Retail_Dashboard_Chahiri_page-0001.jpg" alt="Banner" width="720">
   </a>
 
   <div id="user-content-toc">
