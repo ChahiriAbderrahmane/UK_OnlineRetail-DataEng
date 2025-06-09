@@ -70,3 +70,27 @@ The dataset includes the following columns:
 
 <a name="arch"></a>
 ## 📝 Project Architecture
+![Architecture](https://github.com/ChahiriAbderrahmane/UK_OnlineRetail-DataEng/blob/master/Project%20Architecture.jpg)
+
+### ⚙️ Data Modeling
+![image](https://github.com/ChahiriAbderrahmane/UK_OnlineRetail-DataEng/blob/master/Database%20ER%20diagram%20.png)
+
+### 🛠️ Technologies Used
+
+### 🛠️ Technologies Used
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
+<a name="refs"></a>
+## 📋 Credits
+
+- This Project is inspired by this video of the [YouTube Channel Darshil Parmar](https://www.youtube.com/watch?v=0iNJPKheQqM&t=1304s)
+
+  <a name="contact"></a>
+## 📨 Contact Me
+
+[LinkedIn](https://www.linkedin.com/in/abderrahmane-chahiri-151b26237/) •
+[Website](https://github.com/ChahiriAbderrahmane) •
+[Gmail](chahiri.abderrahmane.eng@gmail.com)
