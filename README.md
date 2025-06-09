@@ -75,7 +75,23 @@ The dataset includes the following columns:
 ### ⚙️ Data Modeling
 ![image](https://github.com/ChahiriAbderrahmane/UK_OnlineRetail-DataEng/blob/master/Database%20ER%20diagram%20.png)
 
-### 🛠️ Technologies Used
+# Here are some screenshots of the work I've done.
+
+<div align="center">
+  <img src="https://github.com/ChahiriAbderrahmane/UK_OnlineRetail-DataEng/blob/master/screen1.png" width="45%" />
+  <img src="https://github.com/ChahiriAbderrahmane/UK_OnlineRetail-DataEng/blob/master/screen3.png" width="45%" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/ChahiriAbderrahmane/UK_OnlineRetail-DataEng/blob/master/screen4.png" width="45%" />
+  <img src="https://github.com/ChahiriAbderrahmane/UK_OnlineRetail-DataEng/blob/master/screen5.png" width="45%" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/ChahiriAbderrahmane/UK_OnlineRetail-DataEng/blob/master/screen6.png" width="45%" />
+</div>
+
+
 
 ### 🛠️ Technologies Used
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
