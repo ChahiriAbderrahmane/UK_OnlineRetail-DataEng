@@ -104,7 +104,7 @@ The dataset includes the following columns:
 
 - This Project is inspired by this video of the [YouTube Channel Darshil Parmar](https://www.youtube.com/watch?v=0iNJPKheQqM&t=1304s)
 
-  <a name="contact"></a>
+<a name="contact"></a>
 ## 📨 Contact Me
 
 [LinkedIn](https://www.linkedin.com/in/abderrahmane-chahiri-151b26237/) •
